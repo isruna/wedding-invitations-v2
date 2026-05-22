@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "Undangan Pernikahan — Rina & Iqbal",
+    "og_title": "Undangan Pernikahan Rina Herlina & M. Iqbal Raihan",
+    "og_description": "Minggu, 14 Juni 2026",
+    "og_image": "https://isruna.github.io/wedding-invitations/cover-whatsapp.png",
+    "base_url": "https://isruna.github.io/wedding-invitations/"
+  },
+
+  "theme": "theme-sage.css",
+
+  "wedding": {
+    "date_iso": "2026-06-14T08:00:00",
+    "date_display": "Minggu, 14 Juni 2026",
+    "time": "Pukul 08.00 WIB s.d. Selesai",
+    "event_name": "Akad Nikah & Resepsi",
+    "venue_name": "GOR Balai Desa Cisalada",
+    "venue_address": "Kec. Cigombong, Kab. Bogor",
+    "maps_url": "https://www.google.com/maps?q=-6.733734341957357,106.78974428180437"
+  },
+
+  "bride": {
+    "nickname": "Rina",
+    "full_name": "Rina Herlina",
+    "description": "Putri ke-6 dari Bapak Endang Rosadi (Alm.)<br>& Ibu Nani",
+    "photo": "assets/bride.png"
+  },
+
+  "groom": {
+    "nickname": "Iqbal",
+    "full_name": "M. Iqbal Raihan",
+    "description": "Putra ke-1 dari Bapak Eman Sulaeman<br>& Ibu Yeni Heryani",
+    "photo": "assets/groom.png"
+  },
+
+  "turut_mengundang": {
+    "wanita": {
+      "title": "Keluarga Mempelai Wanita",
+      "list": [
+        "Ustadz Tatang",
+        "Bp. Yasin (Ketua RW 10)",
+        "Bp. Uko Sumarna (Ketua RT 1)",
+        "Kel. Besar Aki Marsono (Alm.)",
+        "Kel. Besar Aki Latif (Alm.)",
+        "Kel. Besar Bp. Endang Rosadi (Alm.)"
+      ]
+    },
+    "pria": {
+      "title": "Keluarga Mempelai Pria",
+      "list": [
+        "KH. M Izzuddin",
+        "Ustd. M. Endin Tazudin",
+        "Kel. Besar H Mamad",
+        "Kel. Besar Rodiyah",
+        "Kel. Besar Shalawat AL IKHLAS Cienggong Cisalada",
+        "Kel. Besar Ponpes AL IKHLAS Cienggong Cisalada",
+        "Kel. Besar Ponpes SYAJARATUL HUDA Cukanggaleh",
+        "CV. KANZA UTAMA",
+        "PT. Air Gunung Caringin"
+      ]
+    }
+  },
+
+  "gifts": [
+    {
+      "bank": "DANA",
+      "number": "08992583802",
+      "holder": "a.n Mjohamad Iqbal Raihan"
+    },
+    {
+      "bank": "DANA",
+      "number": "085714338654",
+      "holder": "a.n Rina Herlina"
+    }
+  ],
+
+  "music_url": "assets/music.mp3",
+
+  "dummy_wishes": {
+    "names": [
+      "Budi & Keluarga", "Siska P.", "Kel. Bpk. Andi", "Rahmat Hidayat",
+      "Dina & Suami", "Tante Sarah", "Om Dedi", "Reza", "Ayu Lestari", "Kel. Bpk. Herman"
+    ],
+    "messages": [
+      "Selamat menempuh hidup baru Iqbal dan Rina. Semoga samawa!",
+      "Happy wedding! Semoga lancar sampai hari H yaa.. bahagia selalu kalian berdua! ✨",
+      "Barakallahulakum wa baraka 'alaikum. Selamat ya Rina & Iqbal.",
+      "Selamat berbahagia! Maaf belum bisa hadir, doa terbaik untuk kalian.",
+      "Semoga menjadi keluarga yang sakinah, mawaddah, warahmah. Amin.",
+      "Lancar-lancar ya persiapannya sampai hari H! Gak sabar nunggu acaranya.",
+      "Selamat menempuh ibadah terpanjang. Bahagia selalu ya!"
+    ]
+  }
+}
